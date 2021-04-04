@@ -1,0 +1,27 @@
+Data type:-
+1.space occupy
+2.range
+3.operations to be performed
+
+Statement:-
+
+1.Expression statement
+2.Compound statement / block statement
+3.selection statement(if..else,switch)
+4.iterative statement(while,for,do..while)
+5.jump statement(break,continue,goto)
+6.label statement(return,case ,default)
+
+
+Memory sections:-
+
+1.code section
+2.global section (static)
+3.stack (automatic control)
+4.heap (dynamic memory allocation) programmers have to control (garbage collection)
+
+
+A-Z
+a-z
+ascii value of A=65
+ascii value of B=66

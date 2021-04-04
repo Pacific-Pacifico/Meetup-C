@@ -1,0 +1,23 @@
+c++ compilers
+
+turbo  16 bit compiler
+gcc/g++ 32 bit compiler with 64 bit support
+llvm clang
+microsoft visual c
+intel
+
+
+c++ standard versions:-
+
+c++98  imp
+c++03
+c++11  imp
+c++14
+c++17  imp
+c++20
+c++23
+
+
+
+
+
