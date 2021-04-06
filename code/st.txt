@@ -12,6 +12,21 @@ Statement:-
 5.jump statement(break,continue,goto)
 6.label statement(return,case ,default)
 
+passing in function
+
+1.call by value   ----> xerox bnta h actual argument ka formal argument ka   //c
+2.call by pointer   //c
+3.call by reference  //c++ only
+
+poly = many
+phorms= forms
+
+
+two approaches(functions)-
+
+top down
+bottom up
+
 
 Memory sections:-
 
@@ -25,3 +40,41 @@ A-Z
 a-z
 ascii value of A=65
 ascii value of B=66
+
+
+references restrictions:-
+
+1.must be initialized when declared with variable
+2.cannot be NULL
+3.cannot refer addresses
+**4.cannot create array of reference
+**5.cannot create a pointer to a reference
+**6.cannot reference bit field
+
+
+
+Storage class
+
+describes features of var and fn or an object.
+features:-
+
+scope/visibility
+Lifetime
+
+syntax:-
+
+sc_specifier datatype var;
+
+
+storage class specifiers:-
+
+1.auto
+2.register  (kb)  preference
+3.static
+4.extern
+
+**5.mutable(only c++)
+
+
+declaration - tell type to compiler
+definition - allocate memory
