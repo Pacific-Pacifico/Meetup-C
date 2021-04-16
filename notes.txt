@@ -100,4 +100,8 @@ declaration - tell type to compiler
 definition - allocate memory
 
 
+linkage
 
+1.external - global vars functions
+2.internal - static
+3.none

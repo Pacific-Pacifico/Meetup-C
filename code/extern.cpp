@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    extern int a;     //declare
+    extern int a;     //declaration
     cout<<"a="<<a<<endl;
 }
 
