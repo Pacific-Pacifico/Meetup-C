@@ -1,0 +1,21 @@
+Operator overloading
+
+obj1+obj2
+
+operator function
+
+operator keyword
+
+restrictions:-
+
+1. (.)  dot operator,  (::)  , (?) , (.*) (pointer to a member of class)
+
+2. precedence cannot be changed
+
+(4+2)*3
+
+3.cannot change no of operands
+
+4. = operator is not inherited by default
+
+
